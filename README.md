@@ -12,3 +12,7 @@ Learnt how to make a clock using setInterval and using date methods (getSeconds,
 
 Learnt how to use CSS variables (--variablename) and update them with JS (.setProperty('--variablename', 'value'))
 
+### Day 4
+
+Refreshed my knowledge on Arrays (filter, map, sort, reduce), also learnt about console.table very nice tabular console output. Also a good reminder of how arrow functions work.
+
