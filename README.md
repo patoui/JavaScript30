@@ -16,3 +16,7 @@ Learnt how to use CSS variables (--variablename) and update them with JS (.setPr
 
 Refreshed my knowledge on Arrays (filter, map, sort, reduce), also learnt about console.table very nice tabular console output. Also a good reminder of how arrow functions work.
 
+### Day 5
+
+Made some interesting animation using flex, transitions, and events.
+
