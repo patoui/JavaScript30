@@ -24,3 +24,7 @@ Made some interesting animations using flex, transitions, and events.
 
 Learnt about new "fetch" method to make http calls which returns a promise. Also, refresh my knowledge of regular expressions using RegExp.
 
+### Day 7
+
+Refreshed my knowledge on Array function: some, every, find, findIndex, and spread operator.
+
