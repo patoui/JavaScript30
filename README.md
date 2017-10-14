@@ -36,3 +36,7 @@ Learnt some neat tricks for playing with canvas while making a little drawing to
 
 Learnt some useful debugging tricks and console methods (log, warn, error, info, assert, dir, clear, group, count, time)
 
+### Day 10
+
+Had a look at how to handle checking multiple checkboxes while holding down shift.
+
