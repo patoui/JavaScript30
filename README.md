@@ -28,3 +28,7 @@ Learnt about new "fetch" method to make http calls which returns a promise. Also
 
 Refreshed my knowledge on Array function: some, every, find, findIndex, and spread operator.
 
+### Day 8
+
+Learnt some neat tricks for playing with canvas while making a little drawing tool.
+
