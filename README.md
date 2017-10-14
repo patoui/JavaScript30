@@ -32,3 +32,7 @@ Refreshed my knowledge on Array function: some, every, find, findIndex, and spre
 
 Learnt some neat tricks for playing with canvas while making a little drawing tool.
 
+### Day 9
+
+Learnt some useful debugging tricks and console methods (log, warn, error, info, assert, dir, clear, group, count, time)
+
