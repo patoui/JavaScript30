@@ -40,3 +40,7 @@ Learnt some useful debugging tricks and console methods (log, warn, error, info,
 
 Had a look at how to handle checking multiple checkboxes while holding down shift.
 
+### Day 11
+
+Neat little script to handle basic video controls.
+
