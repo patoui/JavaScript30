@@ -44,3 +44,7 @@ Had a look at how to handle checking multiple checkboxes while holding down shif
 
 Neat little script to handle basic video controls.
 
+### Day 12
+
+Learnt how to detect a sequence of keys
+
