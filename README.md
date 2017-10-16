@@ -48,3 +48,7 @@ Neat little script to handle basic video controls.
 
 Learnt how to detect a sequence of keys
 
+### Day 13
+
+Learnt how to make a simple "Slide in on Scroll" animation
+
