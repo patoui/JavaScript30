@@ -52,3 +52,7 @@ Learnt how to detect a sequence of keys
 
 Learnt how to make a simple "Slide in on Scroll" animation
 
+### Day 14
+
+Learnt about array/object referencing and copying
+
