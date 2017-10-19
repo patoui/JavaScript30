@@ -56,3 +56,7 @@ Learnt how to make a simple "Slide in on Scroll" animation
 
 Learnt about array/object referencing and copying
 
+### Day 15
+
+Very interesting lesson about LocalStorage, got me thinking about how to use it in my own websites.
+
