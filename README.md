@@ -64,3 +64,8 @@ Very interesting lesson about LocalStorage, got me thinking about how to use it 
 
 Learnt about how to manipulate box-shadows on mousemove and the cursors current position
 
+### Day 17
+
+Neat little sorting exercise without leading articles (a, the, an)
+
+
