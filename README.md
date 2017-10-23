@@ -60,3 +60,7 @@ Learnt about array/object referencing and copying
 
 Very interesting lesson about LocalStorage, got me thinking about how to use it in my own websites.
 
+### Day 16
+
+Learnt about how to manipulate box-shadows on mousemove and the cursors current position
+
