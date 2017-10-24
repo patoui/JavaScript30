@@ -68,4 +68,7 @@ Learnt about how to manipulate box-shadows on mousemove and the cursors current 
 
 Neat little sorting exercise without leading articles (a, the, an)
 
+### Day 18
+
+Nice review of map/reduce array functions
 
