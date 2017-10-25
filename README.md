@@ -72,3 +72,7 @@ Neat little sorting exercise without leading articles (a, the, an)
 
 Nice review of map/reduce array functions
 
+### Day 19
+
+Leanrt how to interact with the users webcam, take in the video data, display it in a canvas and apply filters
+
