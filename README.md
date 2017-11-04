@@ -76,3 +76,7 @@ Nice review of map/reduce array functions
 
 Leanrt how to interact with the users webcam, take in the video data, display it in a canvas and apply filters
 
+### Day 20
+
+Leanrt how to use speech recognition, output it to the page and run functions against phrases
+
