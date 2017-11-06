@@ -92,3 +92,7 @@ Neat little lesson on creating an element that follows your cursor when hovering
 
 Learnt about speech synthesis and utterance while using some controls to manipulate the pitch and rate of the voice
 
+### Day 24
+
+Refresher on making a sticky navigation when scrolling passed a certain point
+
