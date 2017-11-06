@@ -84,3 +84,7 @@ Leanrt how to use speech recognition, output it to the page and run functions ag
 
 Refresher on geolocation to create a speedometer and compass
 
+### Day 22
+
+Neat little lesson on creating an element that follows your cursor when hovering over certain tags
+
