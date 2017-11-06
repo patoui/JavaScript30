@@ -88,3 +88,7 @@ Refresher on geolocation to create a speedometer and compass
 
 Neat little lesson on creating an element that follows your cursor when hovering over certain tags
 
+### Day 23
+
+Learnt about speech synthesis and utterance while using some controls to manipulate the pitch and rate of the voice
+
