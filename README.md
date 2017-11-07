@@ -96,3 +96,7 @@ Learnt about speech synthesis and utterance while using some controls to manipul
 
 Refresher on making a sticky navigation when scrolling passed a certain point
 
+### Day 25
+
+Learnt the ins and outs of event capture, propagation, bubbling, and once
+
