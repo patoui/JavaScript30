@@ -100,3 +100,7 @@ Refresher on making a sticky navigation when scrolling passed a certain point
 
 Learnt the ins and outs of event capture, propagation, bubbling, and once
 
+### Day 26
+
+Learnt how to make a sweet hover affect inspired by stripes navigation
+
