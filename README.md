@@ -104,3 +104,7 @@ Learnt the ins and outs of event capture, propagation, bubbling, and once
 
 Learnt how to make a sweet hover affect inspired by stripes navigation
 
+### Day 27
+
+Cool manipulation of mouse events to create a grab and horizontal scroll feature
+
