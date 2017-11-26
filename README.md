@@ -108,3 +108,7 @@ Learnt how to make a sweet hover affect inspired by stripes navigation
 
 Cool manipulation of mouse events to create a grab and horizontal scroll feature
 
+### Day 28
+
+Neat little episode on video playback manipulation with a mousemove over an element
+
