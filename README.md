@@ -116,3 +116,7 @@ Neat little episode on video playback manipulation with a mousemove over an elem
 
 Cool little timer app, clickable presets and custom value
 
+### Day 30
+
+Awesome Whack-A-Mole game! Great way to finish the series
+
