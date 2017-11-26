@@ -112,3 +112,7 @@ Cool manipulation of mouse events to create a grab and horizontal scroll feature
 
 Neat little episode on video playback manipulation with a mousemove over an element
 
+### Day 29
+
+Cool little timer app, clickable presets and custom value
+
